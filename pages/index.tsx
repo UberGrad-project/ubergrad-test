@@ -7,7 +7,10 @@ const IndexPage = () => (
     <p>
       <Link href="/about">
         <a>About</a>
+      
+
       </Link>
+      <div className="text-2xl">hi broooooo</div>
     </p>
   </Layout>
 )
